@@ -1,0 +1,26 @@
+p{
+    background: gray;
+    margin-right: 10%;
+}
+class="secondParagraph"{
+    background: blue;
+    center: horizontal
+}
+class3{
+    background: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+class4{
+    background: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+text"My First Jibberish Post!"{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    border: 3px;
+    text: horizontally centered
+
+}
